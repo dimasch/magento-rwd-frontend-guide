@@ -10,6 +10,7 @@
 * [Sass - variables, mixins](http://www.youtube.com/watch?v=iWOGk_b2yac) — основы CSS препроцессора (variables, mixins)
 * [Compass](http://www.youtube.com/watch?v=jWKcPW5rXmo) - Compass (Sass Framework) config.rb & watch
 * [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - работаем со спрайтами (sprites).
+* [Susy](http://www.youtube.com/watch?v=bFdXgx8JfVo) — удобные Sass гриды вместо Bootstrap.
 
 
 ## Добавление JS логики
