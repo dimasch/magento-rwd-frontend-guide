@@ -7,6 +7,7 @@
 
 
 ## Sass/Compass
+* [Compass - config.rb & watch](http://www.youtube.com/watch?v=jWKcPW5rXmo) - Compass (Sass Framework) config.rb & watch
 * [Sass - variables, mixins](http://www.youtube.com/watch?v=iWOGk_b2yac) — основы CSS препроцессора (variables, mixins)
 * [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - работаем со спрайтами (sprites).
 
