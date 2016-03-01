@@ -9,3 +9,12 @@
 ## Sass/Compass
 * [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - работаем со спрайтами (sprites).
 * [Sass - variables, mixins](http://www.youtube.com/watch?v=iWOGk_b2yac) — основы CSS препроцессора (variables, mixins)
+
+
+## Добавление JavaScript логики
+* skin/frontend/kmplzt/waterb/js - проектные JavaScript классы
+* skin/frontend/kmplzt/waterb/vendor - модули 
+настроим .bowerrc и пропишем там vendor
+bower install owl.carousel —save-dev
+В vendor храним только то, что устанавливается и обновляем из Bower. При этом vendor хранится в нашем git.
+* Создание экземпляров или настроки плагинов добавляем в шаблонах в теге <script pagespeed_no_defer=""></script> непосредственно в шаблонах после html разметки.
