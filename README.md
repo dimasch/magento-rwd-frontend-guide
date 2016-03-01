@@ -6,5 +6,5 @@
 * [Css-tricks - Susy](https://css-tricks.com/build-web-layouts-easily-susy/) - Build Web Layouts Easily with Susy.
 
 
-## 
+## Sass/Compass
 * [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - Compass — работаем со спрайтами (sprites).
