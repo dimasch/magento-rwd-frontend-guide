@@ -12,7 +12,7 @@
 
 
 ## Добавление JavaScript логики
-* skin/frontend/kmplzt/theme/js - проектные JavaScript классы 
+* `skin/frontend/kmplzt/theme/js` - проектные JavaScript классы 
 * skin/frontend/kmplzt/theme/vendor - в vendor храним только то, что устанавливается и обновляем из пакетного менеджера Bower (bower install owl.carousel —save-dev)
 Для того чтобы при установке модули сохранялись в папку vendor настроим .bowerrc
 * Добавляем jQuery в раздел ignoredDependencies .bowerrc (пример в этом репозитории)
