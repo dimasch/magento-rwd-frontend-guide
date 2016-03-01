@@ -7,4 +7,4 @@
 
 
 ## Sass/Compass
-* [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - Compass — работаем со спрайтами (sprites).
+* [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - работаем со спрайтами (sprites).
