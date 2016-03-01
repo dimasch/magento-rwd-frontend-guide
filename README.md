@@ -12,7 +12,7 @@
 * [Compass - sprites](http://www.youtube.com/watch?v=arQhD9Jc81M) - работаем со спрайтами (sprites).
 
 
-## Добавление JavaScript логики
+## Добавление JS логики
 * `skin/frontend/kmplzt/theme/js` - проектные JavaScript классы 
 * `skin/frontend/kmplzt/theme/vendor` - в vendor храним только то, что устанавливается и обновляем из пакетного менеджера Bower (`bower install owl.carousel —save-dev`)
 Для того чтобы при установке модули сохранялись в папку vendor настроим `.bowerrc`
@@ -23,4 +23,6 @@
 * Используем неймспейс jQuery 
 
 
-
+## Работа с Sass/Compass
+* Спрайты делаем модульными, например создаем папку images/social или images/account. И добавляем не все изображения через all ключевое слово, а добавляем через include точечно каждое изображение на месте использования. Таким образом будут генериться только действительно используемые css-правила для микинов.
+* Используем брейкпоинты [breakpoint-sass.com](http://breakpoint-sass.com/) для описания адаптивных блоков.
